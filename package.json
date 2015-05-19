@@ -1,11 +1,11 @@
 {
-  "name": "filepizza-peer",
+  "name": "filepizza-peerjs",
   "version": "1.0.0",
   "description": "Isomorphic helper module for FilePizza's PeerJS.",
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:kern/filepizza-peer.git"
+    "url": "git@github.com:kern/filepizza-peerjs.git"
   },
   "browser": "client.js",
   "author": "Alex Kern <alex@kern.io> (http://kern.io)",
