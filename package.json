@@ -1,6 +1,6 @@
 {
   "name": "filepizza-peerjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Isomorphic helper module for FilePizza's PeerJS.",
   "main": "server.js",
   "repository": {
