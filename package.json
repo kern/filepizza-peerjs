@@ -11,7 +11,7 @@
   "author": "Alex Kern <alex@kern.io> (http://kern.io)",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "peerjs": "^0.3.14",
-    "node-uuid": "^1.4.3"
+    "node-uuid": "^1.4.3",
+    "peerjs": "^0.3.14"
   }
 }
